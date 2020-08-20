@@ -20,4 +20,6 @@ This return JSON of any standards with errors or warnings.
 npm run start
 ```
 
-then navigate to http://localhost:3000/
+then navigate to http://localhost:3000/ and you should see a basic accordion UI with the results like below
+
+<img width="2032" alt="Screenshot 2020-08-20 at 17 05 04" src="https://user-images.githubusercontent.com/4798332/90796746-a0300800-e307-11ea-9bd4-9edbd948025a.png">
