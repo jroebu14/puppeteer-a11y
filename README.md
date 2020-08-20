@@ -1,4 +1,4 @@
-### ⚠️ This is just a hacked together proof of concept and doesn't have a lot of the existing bbc-a11y tool functionality such as skipping tests and probably many other things
+### ⚠️ This is just a hacked together proof of concept with bugs and doesn't have a lot of the existing bbc-a11y tool functionality such as skipping tests and probably many other things
 
 ### Get started
 
